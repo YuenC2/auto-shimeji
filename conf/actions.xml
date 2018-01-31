@@ -150,8 +150,8 @@
 		<Action Name="GrabCeiling" Type="Stay" BorderType="Ceiling">
 			<Animation>
 				<Pose Image="/shime23.png" ImageAnchor="64,48" Velocity="0,0" Duration="200" />
-				<Pose Image="/shime23b.png" ImageAnchor="64,112" Velocity="0,0" Duration="2" />
-				<Pose Image="/shime23.png" ImageAnchor="64,112" Velocity="0,0" Duration="48" />
+				<Pose Image="/shime23b.png" ImageAnchor="64,48" Velocity="0,0" Duration="2" />
+				<Pose Image="/shime23.png" ImageAnchor="64,48" Velocity="0,0" Duration="48" />
 			</Animation>
 		</Action>
 		
