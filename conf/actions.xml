@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <Mascot xmlns="http://www.group-finity.com/Mascot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.group-finity.com/Mascot Mascot.xsd">
 
@@ -206,9 +206,9 @@
 		<Action Name="FallWithIe" Type="Embedded" Class="com.group_finity.mascot.action.FallWithIE"
 			 IeOffsetX="0" IeOffsetY="-64">
 			<Animation>
-				<Pose Image="/shime36.png" ImageAnchor="64,160" Velocity="0,0" Duration="100" />
-				<Pose Image="/shime36b.png" ImageAnchor="64,160" Velocity="0,0" Duration="2" />
-				<Pose Image="/shime36.png" ImageAnchor="64,160" Velocity="0,0" Duration="148" />
+				<Pose Image="/shime36.png" ImageAnchor="64,128" Velocity="0,0" Duration="100" />
+				<Pose Image="/shime36b.png" ImageAnchor="64,128" Velocity="0,0" Duration="2" />
+				<Pose Image="/shime36.png" ImageAnchor="64,128" Velocity="0,0" Duration="148" />
 			</Animation>
 		</Action>
 		<Action Name="WalkWithIe" BorderType="Floor" Type="Embedded" Class="com.group_finity.mascot.action.WalkWithIE"
@@ -248,11 +248,10 @@
 		<Action Name="Falling" Type="Embedded" Class="com.group_finity.mascot.action.Fall"
 			RegistanceX="0.05" RegistanceY="0.1" Gravity="2">
 			<Animation>
-				<Pose Image="/shime4.png" ImageAnchor="64,128" Velocity="0,0" Duration="50" />
-				<Pose Image="/shime4b.png" ImageAnchor="64,112" Velocity="0,0" Duration="50" />
-				<Pose Image="/shime4.png" ImageAnchor="64,112" Velocity="0,0" Duration="50" />
-				<Pose Image="/shime4b.png" ImageAnchor="64,112" Velocity="0,0" Duration="50" />
-				<Pose Image="/shime4.png" ImageAnchor="64,112" Velocity="0,0" Duration="50" />
+				<Pose Image="/shime4.png" ImageAnchor="64,160" Velocity="0,0" Duration="2" />
+				<Pose Image="/shime4b.png" ImageAnchor="64,160" Velocity="0,0" Duration="2" />
+				<Pose Image="/shime4.png" ImageAnchor="64,160" Velocity="0,0" Duration="2" />
+				<Pose Image="/shime4b.png" ImageAnchor="64,160" Velocity="0,0" Duration="2" />
 			</Animation>
 		</Action>
 
@@ -716,11 +715,10 @@
 		<Action Name="PullUpShimeji1" Type="Embedded" Class="com.group_finity.mascot.action.Breed"
 			BornX="-32" BornY="96" BornBehavior="PullUp">
 			<Animation>
-				<Pose Image="/shime1.png" ImageAnchor="64,128" Velocity="0,0" Duration="16" />
-				<Pose Image="/shime38.png" ImageAnchor="96,128" Velocity="0,0" Duration="4" />
+				<Pose Image="/shime38.png" ImageAnchor="96,128" Velocity="0,0" Duration="40" />
 				<Pose Image="/shime39.png" ImageAnchor="96,128" Velocity="0,0" Duration="40" />
 				<Pose Image="/shime40.png" ImageAnchor="96,128" Velocity="0,0" Duration="40" />
-				<Pose Image="/shime41.png" ImageAnchor="96,128" Velocity="0,0" Duration="40" />
+				<Pose Image="/shime41.png" ImageAnchor="96,128" Velocity="0,0" Duration="2" />
 			</Animation>
 		</Action>
 		<Action Name="PullUpShimeji2" Type="Animate">
@@ -745,11 +743,11 @@
 		<Action Name="Divide1" Type="Embedded" Class="com.group_finity.mascot.action.Breed"
 			BornX="-16" BornY="0" BornBehavior="Divided">
 			<Animation>
-				<Pose Image="/shime42.png" ImageAnchor="64,128" Velocity="0,0" Duration="5" />
-				<Pose Image="/shime43.png" ImageAnchor="64,128" Velocity="0,0" Duration="2" />
-				<Pose Image="/shime44.png" ImageAnchor="64,128" Velocity="0,0" Duration="2" />
-				<Pose Image="/shime45.png" ImageAnchor="64,128" Velocity="0,0" Duration="5" />
-				<Pose Image="/shime46.png" ImageAnchor="64,128" Velocity="0,0" Duration="20" />
+				<Pose Image="/shime42.png" ImageAnchor="101,128" Velocity="0,0" Duration="5" />
+				<Pose Image="/shime43.png" ImageAnchor="101,128" Velocity="0,0" Duration="5" />
+				<Pose Image="/shime44.png" ImageAnchor="101,128" Velocity="0,0" Duration="5" />
+				<Pose Image="/shime45.png" ImageAnchor="101,128" Velocity="0,0" Duration="5" />
+				<Pose Image="/shime46.png" ImageAnchor="101,128" Velocity="0,0" Duration="5" />
 			</Animation>
 		</Action>
 		<Action Name="SplitIntoTwo" Type="Sequence">
