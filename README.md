@@ -6,7 +6,21 @@
 
 使用方法：
 1. 運行Shimeji-ee.jar
-2. 右鍵桌寵或工作列右方的Icon進行指令 (※如無指令將會做出隨機動作)
+2. 右鍵桌寵或工作列右方的圖標進行指令 (※如無指令將會做出隨機動作)
+
+設定互動視窗：
+1. 右鍵工作列右方的圖標
+2. 選擇Settings
+3. 選擇Choose Interactive Windows...
+4. 選擇Add並輸入程式名稱（無需輸入完整名稱，例：輸入「Adobe」的話寵桌會與所有名稱以「Adobe」為首的程序視窗進行互動）
+5. 選擇Done
+
+取回被丟走的視窗：
+1. 右鍵桌寵或工作列右方的圖標
+2. 選擇Restore Windows
+
+原程式：
+http://kilkakon.com/projects/shimeji.php
 
 注意：
 請勿隨意增減圖檔或更改程序！
@@ -17,7 +31,7 @@ https://ccucco.deviantart.com/art/Shimeji-for-Mac-Tutorial-317354046
 
 ☆☆☆關於凹凸桌寵☆☆☆
 
-版本：1.1
+版本：1.3
 
 角色：雷獅
 
@@ -28,11 +42,13 @@ https://ccucco.deviantart.com/art/Shimeji-for-Mac-Tutorial-317354046
 
 ☆☆☆更新日誌☆☆☆
 
-版本1.2　　　◎	2018/01/19　　　‧更新：修改雷獅眼睛位置
+版本1.3　　　◎ 2018/03/20　　　‧更新：修改動作圖片（Falling、Sit With Effect、Pull Up Shimeji及Split Into Two）及動作代碼
 
-版本1.1　　　◎	2018/01/06　　　‧更新：修改雷獅爬視窗時四肢都在外面的Bug
+版本1.2　　　◎ 2018/01/19　　　‧更新：修改雷獅眼睛位置
 
-版本1.0　　　◎	2017/12/18　　　‧發佈：雷獅
+版本1.1　　　◎ 2018/01/06　　　‧更新：修改雷獅爬視窗時四肢都在外面的Bug
+
+版本1.0　　　◎ 2017/12/18　　　‧發佈：雷獅
 
 
 ☆☆☆關於製作者☆☆☆
@@ -60,7 +76,18 @@ QQ：
 
 使用方法：
 1. 运行Shimeji-ee.jar
-2. 右键桌宠或工作列右方的Icon进行指令 (※如无指令将会做出随机动作)
+2. 右键桌宠或工作列右方的图标进行指令 (※如无指令将会做出随机动作)
+
+设定互动视窗：
+1. 右键工作列右方的图标
+2. 选择Settings
+3. 选择Choose Interactive Windows...
+4. 选择Add并输入程式名称（无需输入完整名称，例：输入「Adobe」的话宠桌会与所有名称以「Adobe」为首的程序视窗进行互动）
+5. 选择Done
+
+取回被丢走的视窗：
+1. 右键桌宠或工作列右方的图标
+2. 选择Restore Windows
 
 原程式：
 http://kilkakon.com/projects/shimeji.php
@@ -74,7 +101,7 @@ https://ccucco.deviantart.com/art/Shimeji-for-Mac-Tutorial-317354046
 
 ☆☆☆关于凹凸桌宠☆☆☆
 
-版本：1.0
+版本：1.3
 
 角色：雷狮
 
@@ -85,11 +112,13 @@ https://ccucco.deviantart.com/art/Shimeji-for-Mac-Tutorial-317354046
 
 ☆☆☆更新日志☆☆☆
 
+版本1.3　　　◎ 2018/03/20　　　‧更新：修改动作图片（Falling、Sit With Effect、Pull Up Shimeji及Split Into Two）及动作代码
+
 版本1.2　　　◎ 2018/01/19　　　‧更新：修改雷狮眼睛位置
 
-版本1.1　　　◎	2018/01/06　　　‧更新：修改雷狮爬视窗时四肢都在外面的Bug
+版本1.1　　　◎ 2018/01/06　　　‧更新：修改雷狮爬视窗时四肢都在外面的Bug
 
-版本1.0　　　◎	2017/12/18　　　‧发布：雷狮
+版本1.0　　　◎ 2017/12/18　　　‧发布：雷狮
 
 
 ☆☆☆关于制作者☆☆☆
